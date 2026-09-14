@@ -24,7 +24,7 @@ Nesta edição, a parceira do Challenge é a **GoodWe**, líder em soluções de
 
 ## Repositórios do Projeto
 
-### 🌐 Aplicação Principal (GoodWe Challenge)
+### Aplicação Principal (GoodWe Challenge)
 - **[GoodWe Challenge Front](https://github.com/vencedoresdonext/goodwe-challenge-front):** Interface web do projeto desenvolvida em TypeScript.
 - **[GoodWe Challenge Service](https://github.com/vencedoresdonext/goodwe-challenge-service):** API / Backend responsável pelas regras de negócio em TypeScript.
 - **[GoodWe Challenge Mobile](https://github.com/vencedoresdonext/goodwe-challenge-mobile):** Aplicativo da solução.
