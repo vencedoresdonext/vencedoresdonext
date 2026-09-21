@@ -15,9 +15,9 @@ Nesta edição, a parceira do Challenge é a **GoodWe**, líder em soluções de
 | Foto | Nome Completo | RM | Função | GitHub |
 | :---: | :--- | :---: | :--- | :---: |
 | <img src="./enzo-tabuchi.png" width="150" alt="Tabuchi"> | **Enzo Seiji Delgado Tabuchi** | 573156 | 👑 Líder / ⚙️ Backend / 🤖 IA | [@enzo-tabuchi-github](https://github.com/enzotabuchii) |
-| <img src="./luca-lucareli.png" width="150" alt="Luca"> | **Henrique Almeida Lucareli** | 569183 | 📊 Dados / 📱 Mobile | [@henrique-lucareli-github](https://github.com/HenriqueAlmeidaLucareli) |
+| <img src="./luca-lucareli.png" width="150" alt="Luca"> | **Henrique Almeida Lucareli** | 569183 | 📊 Dados / 📱 Mobile | [@henrique-lucareli-github](https://github.com/LucaLucareli) |
 | <img src="./leonardo-scotti.png" width="150" alt="Scotti"> | **Leonardo Scotti Tobias** | 573305 | 🎨 Frontend | [@leonardo-scotti-github](https://github.com/leonardo-scotti) |
-| <img src="./henrique-lucareli.png" width="150" alt="Henrique"> | **Luca Almeida Lucareli** | 569061 | ⚙️ Backend / 📊 Dados | [@luca-lucareli-github](https://github.com/LucaLucareli) |
+| <img src="./henrique-lucareli.png" width="150" alt="Henrique"> | **Luca Almeida Lucareli** | 569061 | ⚙️ Backend / 📊 Dados | [@luca-lucareli-github](https://github.com/HenriqueAlmeidaLucareli) |
 | <img src="./natan-silva.png" width="150" alt="Natan"> | **Natan Silva da Costa** | 573100 | 📱 Mobile / 🎨 Frontend | [@natan-costa-github](https://github.com/natan-costa01) |
 
 ---
